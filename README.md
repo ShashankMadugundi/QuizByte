@@ -2,8 +2,8 @@
 The application is designed to provide users with a  seamless quiz experience, allowing them to test their knowledge across various topics.
 
 **Installation and Execution**
-1. Download the zip folder named QuizByte-main
-2. Open with vs code
+1. Download the zip folder and extract it
+2. Open the extracted folder with vs code
 3. Enter the command "npm i" in the terminal
 4. Enter "npm run dev"
 5. Then "ctrl + Right-click" on the localhost link shown in the terminal
